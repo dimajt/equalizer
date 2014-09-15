@@ -1,7 +1,11 @@
 Equalizer
 =========
 
-mp3 visualizer for webkit browsers (web audio API)
-Init: D.Run(src);
-Demo: http://dimajt.github.io/equalizer/
-Source: Puru – Koyuki (06R Remix)
+<h3>mp3 visualizer for webkit browsers (web audio API)</h3>
+<br>
+<br>
+<b>Init</b>: D.Run(src);
+<br>
+<b>Demo</b>: http://dimajt.github.io/equalizer/
+<br>
+<b>Source</b>: Puru – Koyuki (06R Remix)
