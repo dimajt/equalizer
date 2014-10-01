@@ -1,0 +1,766 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" tvg-shift=-1 deinterlace=1
+#EXTINF:0 tvg-name="Discovery_Science" tvg-logo="Discovery Science" audio-track=1 group-title="DISCOVERY & National Geographic", Discovery Science   [0]
+udp://@239.10.0.14:1234
+#EXTINF:0 tvg-name="Discovery_World" tvg-logo="Discovery World" audio-track=1 , Discovery World   [0]
+udp://@239.10.0.13:1234
+#EXTINF:0 tvg-name="Investigation_Discovery" tvg-logo="Investigation Discovery" , Discovery Investigation   [0]
+udp://@239.0.1.46:1234
+#EXTINF:0 tvg-name="Discovery_HD" tvg-logo="Discovery HD Showcase" , Discovery HD
+udp://@239.0.0.119:4000
+#EXTINF:0 tvg-name="Discovery" tvg-logo="Discovery Channel" , Discovery Channel
+udp://@239.0.0.29:4000
+#EXTINF:0 tvg-name="TLC" tvg-logo="TLC" , TLC   [0]
+udp://@239.10.0.15:1234
+#EXTINF:0 tvg-name="TLC_HD" tvg-logo="TLC" , TLC HD
+udp://@239.0.0.247:4000
+#EXTINF:0 tvg-name="Animal_Planet" tvg-logo="Animal Planet" audio-track=1 , Animal Planet   [0]
+udp://@239.10.0.16:1234
+#EXTINF:0 tvg-name="Animal_Planet_HD" tvg-logo="Animal Planet HD" , Animal Planet HD
+udp://@239.0.0.129:4000
+#EXTINF:0 tvg-name="National_Geographic" tvg-logo="National Geographic" audio-track=1 , National Geographic
+udp://@239.0.0.35:4000
+#EXTINF:0 tvg-name="Nat_Geo_WILD" tvg-logo="Nat Geo Wild" , Nat Geo Wild
+udp://@239.0.0.51:4000
+#EXTINF:0 tvg-name="Nat_Geo_Wild_HD" tvg-logo="Nat Geo Wild HD" , Nat Geo Wild HD
+udp://@239.0.0.168:4000
+#EXTINF:0 tvg-name="National_Geographic_HD" tvg-logo="National Geographic" , National Geographic HD
+udp://@239.0.1.101:4000
+#EXTINF:0 tvg-name="Da_Vinci" tvg-logo="Da Vinci Learning" group-title="VIASAT & Other", Da Vinci Learning
+udp://@239.0.0.194:4000
+#EXTINF:0 tvg-name="History_HD" tvg-logo="Viasat History HD" , History HD   [0]
+udp://@239.0.0.246:4000
+#EXTINF:0 tvg-name="Viasat_History" tvg-logo="Viasat History" , Viasat History
+udp://@239.0.0.197:4000
+#EXTINF:0 tvg-name="Viasat_Nature_CEE" tvg-logo="Viasat Nature" , Viasat Nature
+udp://@239.0.0.154:4000
+#EXTINF:0 tvg-name="Viasat_Nature_History_HD" tvg-logo="Viasat Nature HD" , Viasat Nature HD
+udp://@239.0.1.30:4000
+#EXTINF:0 tvg-name="Viasat_Explorer" tvg-logo="Viasat Explorer" , Viasat Explorer   [0]
+udp://@239.10.0.24:1234
+#EXTINF:0 tvg-name="Outdoor_Channel" tvg-logo="Outdoor Channel" , Outdoor Channel
+udp://@239.0.0.41:4000
+#EXTINF:0 tvg-name="Travel" tvg-logo="Travel Channel" , Travel Channel
+udp://@239.0.0.214:4000
+#EXTINF:0 tvg-name="Travel_Channel_HD" tvg-logo="Travel Channel HD" , Travel Channel HD
+udp://@239.0.0.248:4000
+#EXTINF:0 tvg-name="24_Техно" tvg-logo="24 Техно" audio-track=1 group-title="RUS SCIENCE", 24 Техно
+udp://@239.0.1.19:4000
+#EXTINF:0 tvg-name="Наука_2_0" tvg-logo="Наука 2.0" , Наука 2.0
+udp://@239.0.0.40:4000
+#EXTINF:0 tvg-name="24_ДОК" tvg-logo="24 DOC" , 24 DOC   [0]
+udp://@239.0.0.42:4000
+#EXTINF:0 tvg-name="HD_Life" tvg-logo="HD Life" , HD Life
+udp://@239.0.0.118:4000
+#EXTINF:0 tvg-name="Моя_Планета" tvg-logo="Моя Планета" , Моя Планета
+udp://@239.0.0.39:4000
+#EXTINF:0 tvg-name="Ocean-TV" tvg-logo="Ocean TV" , Ocean TV
+udp://@239.0.0.38:4000
+#EXTINF:0 tvg-name="Интересное_ТВ" tvg-logo="Интересное ТВ" , Интересное ТВ   [0]
+udp://@239.0.0.22:4000
+#EXTINF:0 tvg-name="365_Дней" tvg-logo="365 Дней ТВ" , 365 Дней ТВ   [0]
+udp://@239.0.0.17:4000
+#EXTINF:0 tvg-name="Просвещение" tvg-logo="Просвещение" , Просвещение
+udp://@239.0.1.150:4000
+#EXTINF:0 tvg-name="Кинохит" tvg-logo="Кинохит" group-title="KINODROM", КИНОХИТ
+udp://@239.0.0.83:4000
+#EXTINF:0 tvg-name="Премьера" tvg-logo="Премьера" , ПРЕМЬЕРА
+udp://@239.0.0.87:4000
+#EXTINF:0 tvg-name="Кинолюкс" tvg-logo="Кинолюкс" , КиноЛЮКС
+udp://@239.0.0.61:4000
+#EXTINF:0 tvg-name="Киноклуб" tvg-logo="Киноклуб" , КиноКлуб
+udp://@239.0.0.88:4000
+#EXTINF:0 tvg-name="Наше_Новое_Кино" tvg-logo="Наше Новое Кино" , Наше Новое Кино
+udp://@239.0.0.85:4000
+#EXTINF:0 tvg-name="Кино_ПЛЮС" tvg-logo="Кино Плюс" , Кино Плюс
+udp://@239.0.0.16:4000
+#EXTINF:0 tvg-name="НТВ-ПЛЮС_3D_by_PANASONIC" tvg-logo="НТВ+ 3D" , 3D by Panasonic
+udp://@239.0.0.125:4000
+#EXTINF:0 tvg-name="TV1000" tvg-logo="TV1000" group-title="TV-1000 & Other", TV-1000
+udp://@239.0.0.153:4000
+#EXTINF:0 tvg-name="TV_1000_Action" tvg-logo="TV1000 Action" , TV-1000 Action
+udp://@239.0.0.152:4000
+#EXTINF:0 tvg-name="TV1000_Megahit_HD" tvg-logo="TV1000 Megahit HD" , TV1000 Megahit HD
+udp://@239.0.1.180:4000
+#EXTINF:0 tvg-name="TV1000_Premium_HD" tvg-logo="TV1000 Premium HD" , TV1000 Premium HD
+udp://@239.0.1.182:4000
+#EXTINF:0 tvg-name="TV1000_Comedy_HD" tvg-logo="TV1000 Comedy HD" , TV1000 Comedy HD
+udp://@239.0.1.181:4000
+#EXTINF:0 tvg-name="ТВ-1000_Русское_кино" tvg-logo="TV1000 Русское кино" , TV-1000 Русское кино
+udp://@239.0.0.178:4000
+#EXTINF:0 tvg-name="HD_Кино" tvg-logo="HD Кино" , HD Kino
+udp://@239.0.0.116:4000
+#EXTINF:0 tvg-name="HD_Кино_2" tvg-logo="HD Кино" , HD Kino 2
+udp://@239.0.0.236:4000
+#EXTINF:0 tvg-name="TV_XXI_(TV21)" tvg-logo="TVXXI" , TV XXI
+udp://@239.0.0.191:4000
+#EXTINF:0 tvg-name="Еврокино" tvg-logo="Еврокино" , ЕвроКино
+udp://@239.0.0.190:4000
+#EXTINF:0 tvg-name="Fox" tvg-logo="Fox" , Fox
+udp://@239.0.0.141:4000
+#EXTINF:0 tvg-name="Fox_Life" tvg-logo="Fox Life" , Fox Life 
+udp://@239.0.0.144:4000
+#EXTINF:0 tvg-name="Paramount_Comedy" tvg-logo="Paramount Comedy" , Paramount Comedy
+udp://@239.0.0.101:4000
+#EXTINF:0 tvg-name="MGM" tvg-logo="MGM" , MGM channel
+udp://@239.0.0.89:4000
+#EXTINF:0 tvg-name="MGM_HD" tvg-logo="MGM" , MGM channel HD
+udp://@239.0.0.104:4000
+#EXTINF:0 tvg-name="AMEDIA_1" tvg-logo="AMTV" group-title="AMEDIA & Кинорейс", Amedia 1
+udp://@239.0.1.157:4000
+#EXTINF:0 tvg-name="AMEDIA_2" tvg-logo="AMTV" , Amedia 2
+udp://@239.0.1.158:4000
+#EXTINF:0 tvg-name="Amedia_Premium_SD" tvg-logo="AMTV" , Amedia Premium SD
+udp://@239.0.1.159:4000
+#EXTINF:0 tvg-name="Amedia_Premium_HD" tvg-logo="AMTV" , Amedia Premium HD
+udp://@239.0.1.102:4000
+#EXTINF:0 tvg-name="Кинорейс_1_(НТВ)" tvg-logo="-TV" , Кинорейс 1
+udp://@239.0.0.202:4000
+#EXTINF:0 tvg-name="Кинорейс_2_(НТВ)" tvg-logo="-TV" , Кинорейс 2
+udp://@239.0.0.203:4000
+#EXTINF:0 tvg-name="Кинорейс_3_(НТВ)" tvg-logo="-TV" , Кинорейс 3
+udp://@239.0.0.204:4000
+#EXTINF:0 tvg-name="Кинорейс_4_(НТВ)" tvg-logo="-TV" , Кинорейс 4
+udp://@239.0.0.64:4000
+#EXTINF:0 tvg-name="Кинорейс_5_(НТВ)" tvg-logo="-TV" , Кинорейс 5
+udp://@239.0.0.201:4000
+#EXTINF:0 tvg-name="Hustler_Blue_(Ночной_канал)" tvg-logo="Hustler tv" group-title="XXX", Hustler
+udp://@239.0.0.199:4000
+#EXTINF:0 tvg-name="" tvg-logo="Arte" , Nuart-TV
+udp://@239.0.1.156:4000
+#EXTINF:0 tvg-name="Playboy_TV" tvg-logo="Playboy" , Playboy TV
+udp://@239.0.0.200:4000
+#EXTINF:0 tvg-name="Русская_ночь" tvg-logo="Русская ночь" , Русская ночь
+udp://@239.0.0.198:4000
+#EXTINF:0 tvg-name="Телеканал_24" tvg-logo="-TV" group-title="UA NEWS",  Новини 24   [0]
+udp://@239.0.1.1:1234
+#EXTINF:0 tvg-name="NewsOne" tvg-logo="-TV" , News One   [0]
+udp://@239.10.0.32:1234
+#EXTINF:0 tvg-name="5_канал_(Украина)" tvg-logo="5 канал украина" , 5 Канал   [0]
+udp://@239.0.1.60:1234
+#EXTINF:0 tvg-name="" tvg-logo="" , 112 Україна   [0]
+udp://@239.0.0.216:4000
+#EXTINF:0 tvg-name="" tvg-logo="" , Еспресо TV   [0]
+udp://@239.0.1.59:1234
+#EXTINF:0 tvg-name="" tvg-logo="100 ТВ" , Телеканал 100
+udp://@239.0.0.100:4000
+#EXTINF:0 tvg-name="" tvg-logo="Euronews" , EuroNews UA
+udp://@239.0.0.159:4000
+#EXTINF:0 tvg-name="Твi" tvg-logo="ТВi" , ТВі   [0]
+udp://@239.0.1.54:1234
+#EXTINF:0 tvg-name="Первый_национальный_(Украина)" tvg-logo="Перший канал" , Перший Національний   [0]
+udp://@239.0.3.5:1234
+#EXTINF:0 tvg-name="" tvg-logo="" , Перший Ukraine
+udp://@239.0.0.254:4000
+#EXTINF:0 tvg-name="РАДА" tvg-logo="РАДА" , РАДА   [0]
+udp://@239.0.1.6:1234
+#EXTINF:0 tvg-name="" tvg-logo="" , АТР (Крымскотатарский)
+udp://@239.0.1.15:4000
+#EXTINF:0 tvg-name="" tvg-logo="" , Право TV   [0]
+udp://@239.0.1.72:1234
+#EXTINF:0 tvg-name="" tvg-logo="" , УНІАН   [0]
+udp://@239.0.0.133:4000
+#EXTINF:0 tvg-name="" tvg-logo="" , Репортер
+udp://@239.0.1.15:1234
+#EXTINF:0 tvg-name="БТБ" tvg-logo="" , БТБ   [0]
+udp://@239.0.1.18:4000
+#EXTINF:0 tvg-name="" tvg-logo="" , UBR   [0]
+udp://@239.0.0.113:4000
+#EXTINF:0 tvg-name="Первый_деловой" tvg-logo="Перший дiловий" , Перший Діловий   [0]
+udp://@239.0.1.24:1234
+#EXTINF:0 tvg-name="" tvg-logo="" , Business
+udp://@239.0.0.166:4000
+#EXTINF:0 tvg-name="ЧП_Info" tvg-logo="" , ЧП Інфо
+udp://@239.0.1.66:1234
+#EXTINF:0 tvg-name="Канал_1_1" tvg-logo="1+1" group-title="UA CHANNELS", 1+1   [0]
+udp://@239.0.3.1:1234
+#EXTINF:0 tvg-name="ТК_Мега" tvg-logo="Мегаспорт" , МЕГА   [0]
+udp://@239.0.1.7:1234
+#EXTINF:0 tvg-name="Интер" tvg-logo="Интер" , Інтер   [0]
+udp://@239.0.3.8:1234
+#EXTINF:0 tvg-name="Новый_Канал" tvg-logo="Новый Канал" , Новий Канал   [0]
+udp://@239.0.3.3:1234
+#EXTINF:0 tvg-name="ICTV_(Украина)" tvg-logo="ICTV" , ICTV   [0]
+udp://@239.0.1.96:1234
+#EXTINF:0 tvg-name="Украина" tvg-logo="ТРК Украина" , ТРК Україна   [0]
+udp://@239.0.1.35:1234
+#EXTINF:0 tvg-name="СТБ" tvg-logo="СТБ" , СТБ   [0]
+udp://@239.0.1.56:1234
+#EXTINF:0 tvg-name="НТН_(Украина)" tvg-logo="НТН" , НТН   [0]
+udp://@239.0.1.44:1234
+#EXTINF:0 tvg-name="Zoom" tvg-logo="Zoom" , ZOOM   [0]
+udp://@239.0.0.126:4000
+#EXTINF:0 tvg-name="2_2_(кино)" tvg-logo="2+2" , 2+2   [0]
+udp://@239.0.1.38:1234
+#EXTINF:0 tvg-name="ТЕТ" tvg-logo="ТЕТ" , ТЕТ   [0]
+udp://@239.0.1.3:1234
+#EXTINF:0 tvg-name="К1" tvg-logo="К1" , K1   [0]
+udp://@239.0.1.5:1234
+#EXTINF:0 tvg-name="К2" tvg-logo="К2" , K2   [0]
+udp://@239.0.1.8:1234
+#EXTINF:0 tvg-name="Тонис" tvg-logo="Тонис" , Тоніс   [0]
+udp://@239.0.1.27:1234
+#EXTINF:0 tvg-name="Тонис" tvg-logo="Тонис" , Тоніс HD   [0]
+udp://@239.0.0.217:4000
+#EXTINF:0 tvg-name="Enter-фильм" tvg-logo="Enter" , Enter-фільм   [0]
+udp://@239.0.1.9:1234
+#EXTINF:0 tvg-name="Добро_ТВ_(Украина)" tvg-logo="" , Dobro   [0]
+udp://@239.0.0.56:4000
+#EXTINF:0 tvg-name="НЛО-ТВ" tvg-logo="НЛО-ТВ" , НЛО-ТБ
+udp://@239.0.0.244:4000
+#EXTINF:0 tvg-name="A-ONE" tvg-logo="A-ONE" group-title="UA MUSIC-INFO-Children", A-ONE UA   [0]
+udp://@239.0.1.28:1234
+#EXTINF:0 tvg-name="Music_Box_Ua" tvg-logo="Music Box" , Music BOX UA   [0]
+udp://@239.0.10.215:1234
+#EXTINF:0 tvg-name="QTV_(Куй_ТВ)" tvg-logo="" , QTV   [0]
+udp://@239.0.1.12:1234
+#EXTINF:0 tvg-name="Pro_все" tvg-logo="" , PRO ВСЕ
+udp://@239.0.1.16:4000
+#EXTINF:0 tvg-name="" tvg-logo="" , СОНЦЕ
+udp://@239.0.1.11:4000
+#EXTINF:0 tvg-name="" tvg-logo="" , Планета
+udp://@239.0.0.245:4000
+#EXTINF:0 tvg-name="" tvg-logo="" , ОЕ
+udp://@239.0.0.249:4000
+#EXTINF:0 tvg-name="" tvg-logo="" , Еко ТБ
+udp://@239.0.0.5:4000
+#EXTINF:0 tvg-name="М-1" tvg-logo="" , М1   [0]
+udp://@239.0.1.4:1234
+#EXTINF:0 tvg-name="" tvg-logo="" , М2   [0]
+udp://@239.0.1.41:1234
+#EXTINF:0 tvg-name="" tvg-logo="O-TV Music" , OTV   [0]
+udp://@239.0.1.22:1234
+#EXTINF:0 tvg-name="RU_MUSIC" tvg-logo="" , RU Music   [0]
+udp://@239.10.0.29:1234
+#EXTINF:0 tvg-name="" tvg-logo="" , LALE (Крымскотатарский)
+udp://@239.0.1.89:4000
+#EXTINF:0 tvg-name="ПЛЮСПЛЮС" tvg-logo="" , ПЛЮС ПЛЮС   [0]
+udp://@239.0.1.20:1234
+#EXTINF:0 tvg-name="" tvg-logo="" , Малятко TV   [0]
+udp://@239.0.1.68:1234
+#EXTINF:0 tvg-name="Пиксель" tvg-logo="" , Піксель   [0]
+udp://@239.0.1.61:1234
+#EXTINF:0 tvg-name="" tvg-logo="" , МЕНЮ-ТБ   [0]
+udp://@239.0.0.8:4000
+#EXTINF:0 tvg-name="" tvg-logo="" , Надія
+udp://@239.0.1.10:4000
+#EXTINF:0 tvg-name="" tvg-logo="" , Глас
+udp://@239.0.0.54:4000
+#EXTINF:0 tvg-name="MAXXI-TV" tvg-logo="" group-title="UA Other-SPORT-Regions", Максі ТБ
+udp://@239.0.1.17:4000
+#EXTINF:0 tvg-name="" tvg-logo="" , Бігуді
+udp://@239.0.0.151:4000
+#EXTINF:0 tvg-name="Первый_Автомобильный" tvg-logo="Первый Автомобильный" , Перший Автомобільний
+udp://@239.0.0.158:4000
+#EXTINF:0 tvg-name="" tvg-logo="" , Культура UA
+udp://@239.0.0.165:4000
+#EXTINF:0 tvg-name="Киевская_Русь" tvg-logo="Киевская Русь" , Київська Русь   [0]
+udp://@239.0.1.21:1234
+#EXTINF:0 tvg-name="Гамма" tvg-logo="" , Gamma   [0]
+udp://@239.10.0.28:1234
+#EXTINF:0 tvg-name="Гумор_ТБ" tvg-logo="" , Гумор-ТБ / Бабай-ТБ   [0]
+udp://@239.0.0.210:4000
+#EXTINF:0 tvg-name="Xsport" tvg-logo="Xsport" , XSPORT   [0]
+udp://@239.0.1.2:1234
+#EXTINF:0 tvg-name="Футбол_(Украина)" tvg-logo="Футбол" , Футбол 1 UA   [0]
+udp://@239.0.1.80:1234
+#EXTINF:0 tvg-name="" tvg-logo="Футбол" , Футбол 2 UA   [0]
+udp://@239.0.1.79:1234
+#EXTINF:0 tvg-name="ТРК_Киев" tvg-logo="ТРК Киев" , ТРК Київ   [0]
+udp://@239.0.1.23:1234
+#EXTINF:0 tvg-name="" tvg-logo="" , ЦК (КДРТРК)
+udp://@239.0.0.12:4000
+#EXTINF:0 tvg-name="" tvg-logo="" , Новая Одесса (38 канал)
+udp://@239.0.3.6:1234
+#EXTINF:0 tvg-name="" tvg-logo="" , Академія (Одеса)
+udp://@239.0.1.74:1234
+#EXTINF:0 tvg-name="" tvg-logo="" , Юніон
+udp://@239.0.1.27:4000
+#EXTINF:0 tvg-name="" tvg-logo="" , Канал 2 (НТА)
+udp://@239.0.0.215:4000
+#EXTINF:0 tvg-name="ТРК_Донбасс" tvg-logo="ТРК_Донбасс" , Донбас
+udp://@239.0.0.223:4000
+#EXTINF:0 tvg-name="Euronews" tvg-logo="Euronews" group-title="FOREIGN CHANNELS", EuroNews   [0]
+udp://@239.0.1.19:1234
+#EXTINF:0 tvg-name="BBC_World" tvg-logo="BBC World" , BBC World News   [0]
+udp://@239.0.1.78:1234
+#EXTINF:0 tvg-name="CNN_International" tvg-logo="CNN" , CNN
+udp://@239.0.0.138:4000
+#EXTINF:0 tvg-name="Universal_Channel" tvg-logo="Universal Channel" , Universal Channel
+udp://@239.0.0.25:4000
+#EXTINF:0 tvg-name="DIVA_Universal" tvg-logo="DIVA Universal" , DIVA Universal
+udp://@239.0.0.28:4000
+#EXTINF:0 tvg-name="CBS_Reality" tvg-logo="CBS Reality" , CBS Reality
+udp://@239.0.0.91:4000
+#EXTINF:0 tvg-name="CBS_Drama" tvg-logo="CBS Drama" , CBS Drama
+udp://@239.0.1.86:4000
+#EXTINF:0 tvg-name="Bloomberg" tvg-logo="Bloomberg" , Bloomberg
+udp://@239.0.1.48:4000
+#EXTINF:0 tvg-name="Deutsche_Welle" tvg-logo="Deutsche Welle" , DW TV
+udp://@239.0.1.105:1234
+#EXTINF:0 tvg-name="NHK_World_TV" tvg-logo="" , NHK World
+udp://@239.0.0.234:4000
+#EXTINF:0 tvg-name="JN1" tvg-logo="" , JN1
+udp://@239.0.0.212:4000
+#EXTINF:0 tvg-name="France_24" tvg-logo="France 24" , France 24   [0]
+udp://@239.0.1.69:1234
+#EXTINF:0 tvg-name="TV5" tvg-logo="TV 5 europe" , TV5 MONDE EUROPE   [0]
+udp://@239.0.1.149:4000
+#EXTINF:0 tvg-name="" tvg-logo="" , Impact TV
+udp://@239.0.0.139:4000
+#EXTINF:0 tvg-name="" tvg-logo="" , ??Армения??
+udp://@239.0.1.153:4000
+#EXTINF:0 tvg-name="" tvg-logo="" , ??Арм_V??
+udp://@239.0.1.154:4000
+#EXTINF:0 tvg-name="World_Fashion_Channel_(рус_)" tvg-logo="World Fashion Ru" , World Fashion   [0]
+udp://@239.0.0.183:4000
+#EXTINF:0 tvg-name="Fashion_TV_HD" tvg-logo="Fashion TV" , Fashion
+udp://@239.0.0.213:4000
+#EXTINF:0 tvg-name="Shopping_Live" tvg-logo="Shopping TV" , Shopping TV
+udp://@239.0.0.167:4000
+#EXTINF:0 tvg-name="MTV_Rocks" tvg-logo="MTV Rocks" group-title="MUSIC", MTV Rocks
+udp://@239.0.0.143:4000
+#EXTINF:0 tvg-name="MTV_Live_HD" tvg-logo="MTV Live HD" , MTV Live HD
+udp://@239.0.0.196:4000
+#EXTINF:0 tvg-name="MTV_Hits" tvg-logo="MTV HITS" , MTV HITS
+udp://@239.0.0.205:4000
+#EXTINF:0 tvg-name="MTV_Dance" tvg-logo="MTV Dance" , MTV Dance
+udp://@239.0.0.80:4000
+#EXTINF:0 tvg-name="" tvg-logo="MTV Russia" , MTV Russia
+udp://@239.0.0.170:4000
+#EXTINF:0 tvg-name="Europa_Plus_TV" tvg-logo="Europa Plus TV" , Europa Plus TV
+udp://@239.0.0.218:4000
+#EXTINF:0 tvg-name="Mezzo_Live_HD" tvg-logo="Mezzo Live HD" , Mezzo HD
+udp://@239.0.0.124:4000
+#EXTINF:0 tvg-name="MCM_Top" tvg-logo="MCM Top" , MCM Top
+udp://@239.0.0.49:4000
+#EXTINF:0 tvg-name="RU_TV" tvg-logo="RuTV" , Ru TV
+udp://@239.0.0.173:4000
+#EXTINF:0 tvg-name="VH1_European" tvg-logo="VH1" , VH1 
+udp://@239.0.0.58:4000
+#EXTINF:0 tvg-name="VH1_Classic" tvg-logo="VH1 Classic" , VH1 Classic
+udp://@239.0.0.44:4000
+#EXTINF:0 tvg-name="Bridge_TV" tvg-logo="Bridge TV" , Bridge TV 
+udp://@239.0.0.176:4000
+#EXTINF:0 tvg-name="Russian_Travel_Guide_(RTG_TV)" tvg-logo="Russian Travel Guide" , RTG
+udp://@239.0.0.37:4000
+#EXTINF:0 tvg-name="МУЗ-ТВ" tvg-logo="Муз ТВ" , МУЗ-ТВ
+udp://@239.0.0.10:4000
+#EXTINF:0 tvg-name="Ля-Минор" tvg-logo="Ля-Минор" , Ля-Минор   [0]
+udp://@239.20.0.6:1234
+#EXTINF:0 tvg-name="Музыка_Первого" tvg-logo="Музыка Первого" , Музыка Первого
+udp://@239.0.0.207:4000
+#EXTINF:0 tvg-name="Шансон_ТВ" tvg-logo="Шансон" , Шансон-ТВ
+udp://@239.0.1.184:4000
+#EXTINF:0 tvg-name="Rusong_TV" tvg-logo="Rusong TV" , Rusong TV 
+udp://@239.0.0.177:4000
+#EXTINF:0 tvg-name="Nickelodeon" tvg-logo="Nickelodeon" group-title="Childrens", Nickelodeon
+udp://@239.0.0.86:4000
+#EXTINF:0 tvg-name="Nickelodeon_HD" tvg-logo="Nickelodeon" , Nickelodeon HD
+udp://@239.0.0.128:4000
+#EXTINF:0 tvg-name="Disney_Channel" tvg-logo="Disney Channel" , Disney Channel
+udp://@239.0.0.31:4000
+#EXTINF:0 tvg-name="Cartoon_Network" tvg-logo="Cartoon Network" , Cartoon Networks
+udp://@239.0.0.46:4000
+#EXTINF:0 tvg-name="Tiji_" tvg-logo="TiJi" , TiJi
+udp://@239.0.0.174:4000
+#EXTINF:0 tvg-name="JimJam" tvg-logo="JimJam" , JimJam
+udp://@239.0.0.192:4000
+#EXTINF:0 tvg-name="Канал_2x2" tvg-logo="2x2" , 2х2   [0]
+udp://@239.0.1.70:1234
+#EXTINF:0 tvg-name="Gulli" tvg-logo="Gulli" , Gulli
+udp://@239.0.0.27:4000
+#EXTINF:0 tvg-name="Мультимания" tvg-logo="Multimanija" , Мультимания
+udp://@239.0.0.241:4000
+#EXTINF:0 tvg-name="Nick_Jr" tvg-logo="Nickelodeon" , Nick Jr.
+udp://@239.0.1.31:4000
+#EXTINF:0 tvg-name="Карусель" tvg-logo="Карусель" , Карусель   [0]
+udp://@239.0.1.64:1234
+#EXTINF:0 tvg-name="Детский_мир" tvg-logo="Телеклуб-Детский Мир" , Детский мир / Телеклуб   [0]
+udp://@239.20.0.74:1234
+#EXTINF:0 tvg-name="Комеди_ТВ" tvg-logo="Comedy Club TV" group-title="RUS Films", COMEDY TV
+udp://@239.0.0.11:4000
+#EXTINF:0 tvg-name="Настоящее_Страшное_ТВ" tvg-logo="НСТВ" , Настоящее Страшное ТВ
+udp://@239.0.1.24:4000
+#EXTINF:0 tvg-name="Русский_Иллюзион" tvg-logo="Русский Иллюзион" , Русский Иллюзион
+udp://@239.0.0.188:4000
+#EXTINF:0 tvg-name="Иллюзион__" tvg-logo="Иллюзион+" , Иллюзион +
+udp://@239.0.0.189:4000
+#EXTINF:0 tvg-name="Наше_кино" tvg-logo="Наше кино" , Наше Кино   [0]
+udp://@239.20.0.75:1234
+#EXTINF:0 tvg-name="Киносоюз" tvg-logo="Киносоюз" , Киносоюз   [0]
+udp://@239.20.0.66:1234
+#EXTINF:0 tvg-name="Дом_кино" tvg-logo="Дом кино" , Дом Кино   [0]
+udp://@239.0.1.76:1234
+#EXTINF:0 tvg-name="Много_ТВ" tvg-logo="Много ТВ" , Много ТВ
+udp://@239.0.0.21:4000
+#EXTINF:0 tvg-name="Комедия_ТВ" tvg-logo="Комедия ТВ" , Комедия ТВ
+udp://@239.0.0.19:4000
+#EXTINF:0 tvg-name="Феникс_Кино" tvg-logo="Феникс+Кино" , Феникс + кино
+udp://@239.0.1.44:4000
+#EXTINF:0 tvg-name="Индия" tvg-logo="Индия ТВ" , Индия ТВ   [0]
+udp://@239.20.0.4:1234
+#EXTINF:0 tvg-name="Eurosport" tvg-logo="Eurosport" group-title="SPORT", Eurosport   [0]
+udp://@239.10.0.86:1234
+#EXTINF:0 tvg-name="Eurosport_2" tvg-logo="Eurosport 2" , Eurosport 2
+udp://@239.0.0.81:4000
+#EXTINF:0 tvg-name="Eurosport_HD" tvg-logo="Eurosport HD" , Eurosport HD   [0]
+udp://@239.0.1.45:1234
+#EXTINF:0 tvg-name="HD_Спорт" tvg-logo="HD Спорт" , HD Sport
+udp://@239.0.0.117:4000
+#EXTINF:0 tvg-name="Extreme_Sports" tvg-logo="Extreme Sports" , Extreme Sports
+udp://@239.0.0.50:4000
+#EXTINF:0 tvg-name="Viasat_Sport" tvg-logo="Viasat Sport" , Viasat Sport
+udp://@239.0.0.179:4000
+#EXTINF:0 tvg-name="Viasat_Sport" tvg-logo="Viasat Sport" , Viasat Sport HD
+udp://@239.0.1.183:4000
+#EXTINF:0 tvg-name="Наш_Футбол_HD" tvg-logo="НТВ Наш Футбол" , Наш Футбол HD
+udp://@239.0.1.100:4000
+#EXTINF:0 tvg-name="Спорт_1_(HD)" tvg-logo="Спорт 1 HD" , Спорт 1 HD
+udp://@239.0.0.237:4000
+#EXTINF:0 tvg-name="НТВ-ПЛЮС_Футбол_(HD)" tvg-logo="НТВ+ Футбол" , НТВ+ Футбол HD
+udp://@239.0.0.169:4000
+#EXTINF:0 tvg-name="НТВ-ПЛЮС_Футбол_2_HD" tvg-logo="НТВ+ Футбол 2" , НТВ+ Футбол 2 HD
+udp://@239.0.0.235:4000
+#EXTINF:0 tvg-name="Бойцовский_клуб" tvg-logo="Бойцовский Клуб" , Бойцовский Клуб
+udp://@239.0.0.227:4000
+#EXTINF:0 tvg-name="Боец" tvg-logo="Боец" , Боец-ТВ   [0]
+udp://@239.0.0.24:4000
+#EXTINF:0 tvg-name="СпортХит" tvg-logo="Спорт" , СпортХит
+udp://@239.0.0.98:4000
+#EXTINF:0 tvg-name="СпортХит_(HD)" tvg-logo="Спорт" , СПОРТХИТ HD
+udp://@239.0.1.179:4000
+#EXTINF:0 tvg-name="КХЛ-ТВ" tvg-logo="КХЛ" , КХЛ
+udp://@239.0.0.147:4000
+#EXTINF:0 tvg-name="НТВ-ПЛЮС_Теннис" tvg-logo="НТВ+ Теннис" , НТВ+ Теннис   [0]
+udp://@239.0.0.94:4000
+#EXTINF:0 tvg-name="НТВ-ПЛЮС_Баскетбол" tvg-logo="НТВ+ Баскетбол" , НТВ+ Баскетбол
+udp://@239.0.0.95:4000
+#EXTINF:0 tvg-name="НТВ-ПЛЮС_Футбол" tvg-logo="НТВ+ Футбол" , НТВ+ Футбол
+udp://@239.0.0.93:4000
+#EXTINF:0 tvg-name="НТВ-ПЛЮС_Футбол_2" tvg-logo="НТВ+ Футбол 2" , НТВ+ Футбол 2
+udp://@239.0.0.96:4000
+#EXTINF:0 tvg-name="НТВ-ПЛЮС_Наш_Футбол" tvg-logo="НТВ+ Наш Футбол" , НТВ+ Наш Футбол   [0]
+udp://@239.0.0.97:4000
+#EXTINF:0 tvg-name="Спорт_ПЛЮС" tvg-logo="НТВ Спорт плюс" , НТВ+ Спорт Плюс
+udp://@239.0.0.99:4000
+#EXTINF:0 tvg-name="НТВ-ПЛЮС_Спорт" tvg-logo="НТВ+ Спорт" , НТВ+ Спорт
+udp://@239.0.0.60:4000
+#EXTINF:0 tvg-name="НТВ-ПЛЮС_Спорт_Онлайн" tvg-logo="НТВ+ Спорт Онлайн" , НТВ+ Спорт Онлайн
+udp://@239.0.0.146:4000
+#EXTINF:0 tvg-name="Спорт_Союз" tvg-logo="НТВ+ Спорт Союз" , НТВ+ Спорт Союз
+udp://@239.0.0.132:4000
+#EXTINF:0 tvg-name="Спорт_1" tvg-logo="Спорт" , Спорт
+udp://@239.0.0.226:4000
+#EXTINF:0 tvg-name="Спорт_1" tvg-logo="Спорт 1" , Спорт 1
+udp://@239.0.0.225:4000
+#EXTINF:0 tvg-name="Спорт_1" tvg-logo="Спорт1" , Россия Спорт 1
+udp://@239.0.0.65:4000
+#EXTINF:0 tvg-name="Спорт_2" tvg-logo="Спорт 2" , Россия Спорт 2
+udp://@239.0.0.69:4000
+#EXTINF:0 tvg-name="Дождь" tvg-logo="Дождь" group-title="ruskie", ДОЖДЬ
+udp://@239.0.0.184:4000
+#EXTINF:0 tvg-name="Пятница" tvg-logo="Пятница" , Пятница!
+udp://@239.0.0.162:4000
+#EXTINF:0 tvg-name="" tvg-logo="" , Е! Entertainment
+udp://@239.0.1.47:4000
+#EXTINF:0 tvg-name="Эгоист_ТВ" tvg-logo="Эгоист ТВ" , Egoist TV
+udp://@239.0.0.7:4000
+#EXTINF:0 tvg-name="Домашний" tvg-logo="Домашний" , Домашний
+udp://@239.0.0.45:4000
+#EXTINF:0 tvg-name="RTVi" tvg-logo="RTVi" , RTVi   [0]
+udp://@239.0.1.187:4000
+#EXTINF:0 tvg-name="Парк_развлечений" tvg-logo="Парк Развлечений" , Парк Развлечений
+udp://@239.0.0.172:4000
+#EXTINF:0 tvg-name="Перец" tvg-logo="Перец" , Перец ТВ
+udp://@239.0.0.43:4000
+#EXTINF:0 tvg-name="Русский_Экстрим" tvg-logo="Русский Экстрим" , RUSSIAN EXTREME   [0]
+udp://@239.0.0.134:4000
+#EXTINF:0 tvg-name="РЕН_ТВ" tvg-logo="РЕН" , РЕН ТВ
+udp://@239.0.0.13:4000
+#EXTINF:0 tvg-name="Татарстан_-_Новый_Век" tvg-logo="Татарстан - Новый век" , ТНВ Планета
+udp://@239.0.1.145:4000
+#EXTINF:0 tvg-name="Ю" tvg-logo="Ю" , Ю
+udp://@239.0.0.180:4000
+#EXTINF:0 tvg-name="STV" tvg-logo="" , STV
+udp://@239.0.0.175:4000
+#EXTINF:0 tvg-name="9_Орбита" tvg-logo="" , Орбита (9 канал)
+udp://@239.0.1.155:4000
+#EXTINF:0 tvg-name="Совершенно_Секретно" tvg-logo="Совершенно секретно" , Совершенно секретно   [0]
+udp://@239.0.0.140:4000
+#EXTINF:0 tvg-name="Оружие" tvg-logo="Оружие" , Оружие
+udp://@239.0.0.53:4000
+#EXTINF:0 tvg-name="" tvg-logo="" , Москва 24
+udp://@239.0.0.77:4000
+#EXTINF:0 tvg-name="Первый_образовательный" tvg-logo="Первый Образовательный" , Первый Образовательный
+udp://@239.0.1.152:4000
+#EXTINF:0 tvg-name="СПАС" tvg-logo="Спас_ТВ" , СПАС
+udp://@239.0.1.148:4000
+#EXTINF:0 tvg-name="8_Канал" tvg-logo="8 Канал" , 8 Канал
+udp://@239.0.1.49:4000
+#EXTINF:0 tvg-name="Авто_Плюс" tvg-logo="Авто Плюс" , Авто Плюс   [0]
+udp://@239.0.0.137:4000
+#EXTINF:0 tvg-name="Ностальгия" tvg-logo="Ностальгия" , Ностальгия   [0]
+udp://@239.0.0.181:4000
+#EXTINF:0 tvg-name="ТДК" tvg-logo="ТДК" , ТДК
+udp://@239.0.0.211:4000
+#EXTINF:0 tvg-name="Кухня_ТВ" tvg-logo="Кухня ТВ" , Кухня ТВ   [0]
+udp://@239.0.0.23:4000
+#EXTINF:0 tvg-name="Телекафе" tvg-logo="Телекафе" , Телекафе
+udp://@239.0.0.150:4000
+#EXTINF:0 tvg-name="CCTV-Русский" tvg-logo="Cctv4" , CCTV Russian
+udp://@239.0.1.73:1234
+#EXTINF:0 tvg-name="СТС" tvg-logo="СТС" , СТС   [0]
+udp://@239.10.0.37:1234
+#EXTINF:0 tvg-name="СТС_International" tvg-logo="СТС" , ??СТС int??
+udp://@239.0.1.211:4000
+#EXTINF:0 tvg-name="ТНТ" tvg-logo="ТНТ" , ТНТ
+udp://@239.0.0.55:4000
+#EXTINF:0 tvg-name="ТНТ_(Челябинск)" tvg-logo="ТНТ" , ТНТ Комедия
+udp://@239.0.1.210:4000
+#EXTINF:0 tvg-name="ТВ-3" tvg-logo="ТВ3" , ТВ-3
+udp://@239.0.1.22:4000
+#EXTINF:0 tvg-name="Россия_Культура" tvg-logo="Россия К" , Россия К
+udp://@239.0.0.59:4000
+#EXTINF:0 tvg-name="Время" tvg-logo="Время" , Время
+udp://@239.0.0.142:4000
+#EXTINF:0 tvg-name="ОТР" tvg-logo="ОТР" , ОТР
+udp://@239.0.1.151:4000
+#EXTINF:0 tvg-name="РБК" tvg-logo="РБК" , РБК
+udp://@239.0.0.63:4000
+#EXTINF:0 tvg-name="Кто_есть_кто" tvg-logo="Кто есть кто" , Кто есть кто   [0]
+udp://@239.0.1.45:4000
+#EXTINF:0 tvg-name="Здоровое_Телевидение" tvg-logo="Здоровое ТВ" , Здоровое ТВ   [0]
+udp://@239.0.1.4:4000
+#EXTINF:0 tvg-name="Драйв_ТВ" tvg-logo="Драйв" , Драйв   [0]
+udp://@239.0.1.2:4000
+#EXTINF:0 tvg-name="Психология21" tvg-logo="Психология 21" , Психология 21   [0]
+udp://@239.0.1.7:4000
+#EXTINF:0 tvg-name="Вопросы_и_ответы" tvg-logo="Вопросы и Ответы" , Вопросы и Ответы
+udp://@239.0.1.8:4000
+#EXTINF:0 tvg-name="Домашние_животные" tvg-logo="Домашние Животные" , Домашние Животные   [0]
+udp://@239.0.1.6:4000
+#EXTINF:0 tvg-name="Ретро_ТВ" tvg-logo="Ретро ТВ" , Ретро   [0]
+udp://@239.0.1.1:4000
+#EXTINF:0 tvg-name="Усадьба" tvg-logo="Усадьба ТВ" , Усадьба ТВ   [0]
+udp://@239.0.1.5:4000
+#EXTINF:0 tvg-name="Охота_и_рыбалка" tvg-logo="Охота и Рыбалка" , Охота и Рыбалка   [0]
+udp://@239.0.1.3:4000
+#EXTINF:0 tvg-name="Мужской" tvg-logo="" , Мужской канал
+udp://@239.0.0.232:4000
+#EXTINF:0 tvg-name="ТВЦ" tvg-logo="ТВЦ" , ТВЦ   [0]
+udp://@239.0.1.25:4000
+#EXTINF:0 tvg-name="Загородный" tvg-logo="Загородный" , Загородный
+udp://@239.0.0.233:4000
+#EXTINF:0 tvg-name="Россия_Культура" tvg-logo="Культура" , Культура
+udp://@239.0.1.25:1234
+#EXTINF:0 tvg-name="" tvg-logo="" , Трофей
+udp://@239.0.0.74:4000
+#EXTINF:0 tvg-name="Успех" tvg-logo="Успех" , Успех
+udp://@239.0.0.228:4000
+#EXTINF:0 tvg-name="" tvg-logo="" group-title="сепарасты", FM-ТВ (Севастополь)
+udp://@239.0.0.171:4000
+#EXTINF:0 tvg-name="" tvg-logo="" , 1 Республиканский
+udp://@239.0.1.128:4000
+#EXTINF:0 tvg-name="" tvg-logo="" , Оплот
+udp://@239.0.1.26:4000
+#EXTINF:0 tvg-name="Lifenews" tvg-logo="" , Life  News
+udp://@239.0.1.146:4000
+#EXTINF:0 tvg-name="Russia_Today" tvg-logo="Russia Today" , Russia Today
+udp://@239.0.1.147:4000
+#EXTINF:0 tvg-name="Звезда" tvg-logo="Звезда" , Звезда
+udp://@239.0.0.108:4000
+#EXTINF:0 tvg-name="Первый_канал" tvg-logo="Первый" , Первый
+udp://@239.0.0.14:4000
+#EXTINF:0 tvg-name="1HD" tvg-logo="Первый Канал HD" , Первый HD
+udp://@239.0.0.114:4000
+#EXTINF:0 tvg-name="Россия_HD" tvg-logo="Россия HD" , Россия HD
+udp://@239.0.0.164:4000
+#EXTINF:0 tvg-name="Россия_1" tvg-logo="Россия 1" , Россия 1
+udp://@239.0.0.115:4000
+#EXTINF:0 tvg-name="Россия_24" tvg-logo="Россия 24" , Россия 24
+udp://@239.0.0.109:4000
+#EXTINF:0 tvg-name="Россия_2_(Спорт)" tvg-logo="Россия 2" , Россия 2
+udp://@239.0.0.130:4000
+#EXTINF:0 tvg-name="НТВ" tvg-logo="НТВ" , НТВ
+udp://@239.0.0.84:4000
+#EXTINF:0 tvg-name="НТВ-Мир" tvg-logo="НТВ Мир" , НТВ Мир
+udp://@239.0.1.46:4000
+udp://@239.0.0.155:4000
+#EXTINF:0 tvg-name="24_ДОК" tvg-logo="24 DOC" , 24 DOC   [1]
+udp://@239.20.0.67:1234
+#EXTINF:0 tvg-name="Интересное_ТВ" tvg-logo="Интересное ТВ" , Интересное ТВ   [1]
+udp://@239.20.0.8:1234
+#EXTINF:0 tvg-name="365_Дней" tvg-logo="365 Дней ТВ" , 365 Дней   [1]
+udp://@239.20.0.1:1234
+#EXTINF:0 tvg-name="Наше_кино" tvg-logo="Наше кино" , Наше Кино   [1]
+udp://@239.0.0.15:4000
+#EXTINF:0 tvg-name="Киносоюз" tvg-logo="Киносоюз" , КиноСоюз   [1]
+udp://@239.0.0.36:4000
+#EXTINF:0 tvg-name="Дом_кино" tvg-logo="Дом кино" , Дом Кино   [1]
+udp://@239.0.0.206:4000
+#EXTINF:0 tvg-name="Индия" tvg-logo="Индия ТВ" , Индия ТВ   [1]
+udp://@239.0.0.20:4000
+#EXTINF:0 tvg-name="Телеканал_24" tvg-logo="" , 24 Новини   [1]
+udp://@239.0.0.193:4000
+#EXTINF:0 tvg-name="NewsOne" tvg-logo="" , News One   [1]
+udp://@239.0.0.2:4000
+#EXTINF:0 tvg-name="5_канал_(Украина)" tvg-logo="5 канал украина" , 5 канал   [1]
+udp://@239.0.0.1:4000
+#EXTINF:0 tvg-name="" tvg-logo="" , 112 Україна   [1]
+udp://@239.0.0.242:4000
+#EXTINF:0 tvg-name="" tvg-logo="" , Еспресо TV   [1]
+udp://@239.0.0.209:4000
+#EXTINF:0 tvg-name="Твi" tvg-logo="ТВi" , TBі   [1]
+udp://@239.0.0.112:4000
+#EXTINF:0 tvg-name="Первый_национальный_(Украина)" tvg-logo="Перший канал" , Перший Національний   [1]
+udp://@239.0.0.187:4000
+#EXTINF:0 tvg-name="РАДА" tvg-logo="РАДА" , РАДА   [1]
+udp://@239.0.0.52:4000
+#EXTINF:0 tvg-name="" tvg-logo="" , Право TV   [1]
+udp://@239.0.1.12:4000
+#EXTINF:0 tvg-name="" tvg-logo="" , УНІАН   [1]
+udp://@239.0.0.133:4000
+#EXTINF:0 tvg-name="БТБ" tvg-logo="" , БТБ   [1]
+udp://@239.0.1.77:1234
+#EXTINF:0 tvg-name="" tvg-logo="" , UBR   [1]
+udp://@239.10.0.33:1234
+#EXTINF:0 tvg-name="Первый_деловой" tvg-logo="Перший дiловий" , Перший Діловий   [1]
+udp://@239.0.0.9:4000
+#EXTINF:0 tvg-name="Канал_1_1" tvg-logo="1+1" , 1+1   [1]
+udp://@239.0.0.120:4000
+#EXTINF:0 tvg-name="ТК_Мега" tvg-logo="Мегаспорт" , МЕГА   [1]
+udp://@239.0.0.127:4000
+#EXTINF:0 tvg-name="Интер" tvg-logo="Интер" , Інтер   [1]
+udp://@239.0.0.72:4000
+#EXTINF:0 tvg-name="Интер" tvg-logo="Интер" , Інтер   [2]
+udp://@239.0.1.188:4000
+#EXTINF:0 tvg-name="Новый_Канал" tvg-logo="Новый Канал" , Новий Канал   [1]
+udp://@239.0.0.105:4000
+#EXTINF:0 tvg-name="ICTV_(Украина)" tvg-logo="ICTV" , ICTV   [1]
+udp://@239.0.0.106:4000
+#EXTINF:0 tvg-name="Украина" tvg-logo="ТРК Украина" , ТРК Україна   [1]
+udp://@239.0.0.222:4000
+#EXTINF:0 tvg-name="СТБ" tvg-logo="СТБ" , СТБ   [1]
+udp://@239.0.0.102:4000
+#EXTINF:0 tvg-name="НТН_(Украина)" tvg-logo="НТН" , НТН   [1]
+udp://@239.0.0.78:4000
+#EXTINF:0 tvg-name="Zoom" tvg-logo="Zoom" , ZOOM   [1]
+udp://@239.0.1.95:1234
+#EXTINF:0 tvg-name="2_2_(кино)" tvg-logo="2+2" , 2+2   [1]
+udp://@239.0.0.156:4000
+#EXTINF:0 tvg-name="ТЕТ" tvg-logo="ТЕТ" , TET   [1]
+udp://@239.0.0.62:4000
+#EXTINF:0 tvg-name="К1" tvg-logo="К1" , К1   [1]
+udp://@239.0.0.70:4000
+#EXTINF:0 tvg-name="К2" tvg-logo="К2" , K2   [1]
+udp://@239.0.0.122:4000
+#EXTINF:0 tvg-name="Тонис" tvg-logo="Тонис" , Tonis   [1]
+udp://@239.0.0.230:4000
+#EXTINF:0 tvg-name="Тонис" tvg-logo="Тонис" , Тоніс HD   [1]
+udp://@239.0.1.11:1234
+#EXTINF:0 tvg-name="Enter-фильм" tvg-logo="Enter" , Enter-фільм   [1]
+udp://@239.0.0.123:4000
+#EXTINF:0 tvg-name="Добро_ТВ_(Украина)" tvg-logo="" , Dobro   [1]
+udp://@239.0.1.87:1234
+#EXTINF:0 tvg-name="A-ONE" tvg-logo="A-ONE" , A-One UA   [1]
+udp://@239.0.0.160:4000
+#EXTINF:0 tvg-name="A-ONE" tvg-logo="A-ONE" , A-One UA   [2]
+udp://@239.0.1.32:4000
+#EXTINF:0 tvg-name="Music_Box_Ua" tvg-logo="Music Box" , Music BOX UA   [1]
+udp://@239.0.0.135:4000
+#EXTINF:0 tvg-name="QTV_(Куй_ТВ)" tvg-logo="" , QTV   [1]
+udp://@239.0.0.110:4000
+#EXTINF:0 tvg-name="М-1" tvg-logo="" , М1   [1]
+udp://@239.0.0.103:4000
+#EXTINF:0 tvg-name="" tvg-logo="" , М2   [1]
+udp://@239.0.0.107:4000
+#EXTINF:0 tvg-name="" tvg-logo="O-TV Music" , OTV   [1]
+udp://@239.0.0.4:4000
+#EXTINF:0 tvg-name="RU_MUSIC" tvg-logo="" , RU Music   [1]
+udp://@239.0.0.3:4000
+#EXTINF:0 tvg-name="ПЛЮСПЛЮС" tvg-logo="" , ПЛЮС ПЛЮС   [1]
+udp://@239.0.0.111:4000
+#EXTINF:0 tvg-name="" tvg-logo="" , Малятко TV   [1]
+udp://@239.0.0.26:4000
+#EXTINF:0 tvg-name="Пиксель" tvg-logo="" , Піксель   [1]
+udp://@239.0.0.121:4000
+#EXTINF:0 tvg-name="" tvg-logo="" , МЕНЮ-ТБ   [1]
+udp://@239.0.0.8:4000
+#EXTINF:0 tvg-name="Киевская_Русь" tvg-logo="Киевская Русь" , Київська Русь   [1]
+udp://@239.0.1.14:4000
+#EXTINF:0 tvg-name="Гамма" tvg-logo="" , Gamma   [1]
+udp://@239.0.0.6:4000
+#EXTINF:0 tvg-name="Гумор_ТБ" tvg-logo="" , Гумор ТБ / Бабай ТБ   [1]
+udp://@239.0.0.210:4000
+#EXTINF:0 tvg-name="Xsport" tvg-logo="Xsport" , XSPORT   [1]
+udp://@239.0.0.73:4000
+#EXTINF:0 tvg-name="Футбол_(Украина)" tvg-logo="Футбол" , Футбол 1 UA   [1]
+udp://@239.0.1.203:4000
+#EXTINF:0 tvg-name="" tvg-logo="Футбол" , Футбол 2 UA   [1]
+udp://@239.0.0.224:4000
+#EXTINF:0 tvg-name="ТРК_Киев" tvg-logo="ТРК Киев" , ТРК Київ   [1]
+udp://@239.0.0.66:4000
+#EXTINF:0 tvg-name="Euronews" tvg-logo="Euronews" , EuroNews   [1]
+udp://@239.0.0.185:4000
+#EXTINF:0 tvg-name="BBC_World" tvg-logo="BBC World" , BBC World News   [1]
+udp://@239.0.1.50:4000
+#EXTINF:0 tvg-name="France_24" tvg-logo="France 24" , France 24   [1]
+udp://@239.0.0.182:4000
+#EXTINF:0 tvg-name="France_24" tvg-logo="France 24" , France 24   [2]
+udp://@239.0.1.51:4000
+#EXTINF:0 tvg-name="TV5" tvg-logo="TV 5 europe" , TV5 MONDE EUROPE   [1]
+udp://@239.0.1.75:1234
+#EXTINF:0 tvg-name="World_Fashion_Channel_(рус_)" tvg-logo="World Fashion Ru" , World Fashion   [1]
+udp://@239.0.0.79:4000
+#EXTINF:0 tvg-name="Ля-Минор" tvg-logo="Ля-Минор" , Ля-Минор   [1]
+udp://@239.0.0.18:4000
+#EXTINF:0 tvg-name="Канал_2x2" tvg-logo="2x2" , 2x2   [1]
+udp://@239.0.0.161:4000
+#EXTINF:0 tvg-name="Карусель" tvg-logo="Карусель" , Карусель   [1]
+udp://@239.0.0.208:4000
+#EXTINF:0 tvg-name="Детский_мир" tvg-logo="Телеклуб-Детский Мир" , Телеклуб / Детский мир   [1]
+udp://@239.0.0.145:4000
+#EXTINF:0 tvg-name="Eurosport" tvg-logo="Eurosport" , Eurosport   [1]
+udp://@239.0.0.33:4000
+#EXTINF:0 tvg-name="Eurosport_HD" tvg-logo="Eurosport HD" , Eurosport HD   [1]
+udp://@239.0.0.195:4000
+#EXTINF:0 tvg-name="Боец" tvg-logo="Боец" , Боец-ТВ   [1]
+udp://@239.20.0.10:1234
+#EXTINF:0 tvg-name="НТВ-ПЛЮС_Теннис" tvg-logo="НТВ+ Теннис" , НТВ+ Теннис   [1]
+udp://@239.20.0.14:1234
+#EXTINF:0 tvg-name="НТВ-ПЛЮС_Наш_Футбол" tvg-logo="НТВ+ Наш Футбол" , НТВ+ Наш Футбол   [1]
+udp://@239.20.0.12:1234
+#EXTINF:0 tvg-name="RTVi" tvg-logo="RTVi" , RTVi   [1]
+udp://@239.20.0.73:1234
+#EXTINF:0 tvg-name="Русский_Экстрим" tvg-logo="Русский Экстрим" , RUSSIAN EXTREME   [1]
+udp://@239.20.0.13:1234
+#EXTINF:0 tvg-name="Совершенно_Секретно" tvg-logo="Совершенно секретно" , Совершенно Секретно   [1]
+udp://@239.20.0.68:1234
+#EXTINF:0 tvg-name="Авто_Плюс" tvg-logo="Авто Плюс" , Авто Плюс   [1]
+udp://@239.20.0.11:1234
+#EXTINF:0 tvg-name="Ностальгия" tvg-logo="Ностальгия" , Ностальгия   [1]
+udp://@239.20.0.15:1234
+#EXTINF:0 tvg-name="Кухня_ТВ" tvg-logo="Кухня ТВ" , Кухня ТВ   [1]
+udp://@239.20.0.9:1234
+#EXTINF:0 tvg-name="СТС" tvg-logo="СТС" , CТС   [1]
+udp://@239.0.0.92:4000
+#EXTINF:0 tvg-name="Кто_есть_кто" tvg-logo="Кто есть кто" , Кто есть Кто   [1]
+udp://@239.20.0.23:1234
+#EXTINF:0 tvg-name="Здоровое_Телевидение" tvg-logo="Здоровое ТВ" , Здоровое ТВ   [1]
+udp://@239.0.1.110:1234
+#EXTINF:0 tvg-name="Драйв_ТВ" tvg-logo="Драйв" , Драйв   [1]
+udp://@239.0.1.108:1234
+#EXTINF:0 tvg-name="Психология21" tvg-logo="Психология 21" , Психология 21   [1]
+udp://@239.0.0.239:4000
+#EXTINF:0 tvg-name="Домашние_животные" tvg-logo="Домашние Животные" , Домашние Животные   [1]
+udp://@239.0.0.229:4000
+#EXTINF:0 tvg-name="Ретро_ТВ" tvg-logo="Ретро ТВ" , Ретро   [1]
+udp://@239.0.1.107:1234
+#EXTINF:0 tvg-name="Усадьба" tvg-logo="Усадьба ТВ" , Усадьба   [1]
+udp://@239.0.1.111:1234
+#EXTINF:0 tvg-name="Охота_и_рыбалка" tvg-logo="Охота и Рыбалка" , Охота и Рыбалка   [1]
+udp://@239.0.1.109:1234
+#EXTINF:0 tvg-name="Охота_и_рыбалка" tvg-logo="Охота и Рыбалка" , Охота и Рыбалка   [2]
+udp://@239.0.0.238:4000
+#EXTINF:0 tvg-name="ТВЦ" tvg-logo="ТВЦ" , ТВЦ   [1]
+udp://@239.0.0.148:4000
